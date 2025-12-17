@@ -3,7 +3,7 @@ import foodImg from "../assets/foof1-removebg-preview.png"
 
 const Hero = () => {
   return (
-    <div className="min-h-[65vh] bg-amber-400/75 w-full flex justify-center items-center gap-10 flex-wrap lg:text-start text-center">
+    <div className="min-h-[65vh] bg-amber-400/75 w-full flex justify-center items-center gap-10 flex-wrap lg:text-start text-center py-10">
       <div>
         <div>
           <div className="text-7xl font-bold text-white lg:leading-20 leading-18 mb-4">
@@ -14,7 +14,7 @@ const Hero = () => {
           </div>
         </div>
 
-        <div className="bg-white rounded-2xl min-w-4/10">
+        <div className="bg-white rounded-2xl min-w-4/10 lg:scale-100 scale-80">
           <div className="flex p-4 gap-3">
             <button className="py-1 px-6 font-bold text-orange-600/90 bg-orange-100 rounded cursor-pointer transition ease hover:scale-105">
               <i className="ri-motorbike-fill mr-2"></i>Delivery
