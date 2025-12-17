@@ -3,7 +3,7 @@ import foodImg from "../assets/foof1-removebg-preview.png"
 
 const Hero = () => {
   return (
-    <div className="min-h-[65vh] bg-orange-400/70 w-full flex justify-center items-center gap-10 flex-wrap lg:text-start text-center py-10">
+    <div className="min-h-[65vh] bg-orange-400/65 w-full flex justify-center items-center gap-10 flex-wrap lg:text-start text-center py-10">
       <div>
         <div>
           <div className="text-7xl font-bold text-white lg:leading-20 leading-18 mb-4">
