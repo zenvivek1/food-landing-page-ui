@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import foodImg from "../assets/foof1-removebg-preview.png"
 
 const Hero = () => {
