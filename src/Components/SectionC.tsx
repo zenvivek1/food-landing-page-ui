@@ -71,7 +71,7 @@ const SectionC = () => {
 
   {/* Bottom bar */}
   <div className="border-t border-zinc-800 mt-12 py-6 text-center text-sm text-zinc-400">
-    © 2025 foodwagon. All rights reserved.
+    © 2025 Made By Vivek Singh Raghuvanshi👋.
   </div>
 </div>
 
